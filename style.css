@@ -512,7 +512,7 @@ a[data-lightbox]:hover img{
 	background-color:#ffffff;
 }
 .bgc-ferrari-red{
-	background-color:#F52A00;
+	/* background-color:#F52A00; */
 }
 .bgc-sinopia{
 	background-color:#DB3112;
@@ -617,10 +617,10 @@ height: 13rem
     .bloc{
         padding-left: 0; 
         padding-right: 0;  
-        -webkit-background-size: auto 200%;
-        -moz-background-size: auto 200%;
-        -o-background-size: auto 200%;
-        background-size: auto 200%;
+        /* -webkit-background-size: auto 200%; */
+        /* -moz-background-size: auto 200%; */
+        /* -o-background-size: auto 200%; */
+        /* background-size: auto 200%; */
     }
     .b-parallax{
         background-attachment:fixed;
